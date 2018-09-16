@@ -828,6 +828,7 @@ Alyssa Wise,Learning Sciences,undirected
 Alyssa Wise,Chemistry,undirected
 Alyssa Wise,Instructional Systems Technology,undirected
 Jianwei Zhang,educational psychology,undirected
+Jianwei Zhang,Educational Theory and Practice,undirected
 John P. Smith,Cognitive Studies,Undirected
 John P. Smith,Educational Psychology,Undirected
 John P. Smith,Mathematics,Undirected
@@ -845,12 +846,11 @@ G. Michael Bowen,News Media,Undirected
 G. Michael Bowen,Teacher Education,Undirected
 John R. Frederiksen,The Learning Science,Undirected
 John R. Frederiksen,Psychology,Undirected
-Wolff-Michael Roth,The Learning Science,Undirected
 Wolff-Michael Roth,Physics,Undirected
+Wolff-Michael Roth,Mathematics,Undirected
+Wolff-Michael Roth,Chemistry,Undirected
 Wolff-Michael Roth,Science and Technology,Undirected
-Wolff-Michael Roth,Cognition,Undirected
-Wolff-Michael Roth,Statistics,Undirected
-Wolff-Michael Roth,Physical Chemistry,Undirected
+Wolff-Michael Roth,Applied Cognitive Science,Undirected
 Amy S. Kohn,Educational Policy,Undirected
 Amy S. Kohn,Mathematics Education,Undirected
 Amy S. Kohn,Science Education,Undirected
@@ -1646,7 +1646,7 @@ Alfredo Jornet,Cognitive Science,Undirected
 Alfredo Jornet,Psychology,Undirected
 Wolff-Michael Roth,Cognitive Science,Undirected 
 Wolff-Michael Roth,Physics,Undirected 
-Wolff-Michael Roth,Cognitive Science,
+Wolff-Michael Roth,Cognitive Science,Undirected
 Wolff-Michael Roth,Statistics,Undirected
 Wolff-Michael Roth,Physical Chemistry,Undirected
 Ingeborg Krange,Educational Sciences,Undirected
